@@ -2,21 +2,13 @@
 
 **Technical Product Manager · Identity & Access Management × Agentic AI · Bengaluru, India**
 
-I work where identity meets AI. Over 12 years in enterprise software I've moved from full-stack engineering to product management: 6+ years building Identity & Access Management (IAM) products at Airbus, and 2 years building LLM-based and agentic AI products on top of them.
+I work to simplify IAM and where IAM meets AI. Over 12 years in enterprise software I've moved from full-stack engineering to product management: 6+ years building Identity & Access Management (IAM) products at Airbus, and 2 years building LLM-based and agentic AI products on top of them.
 
 [LinkedIn](https://linkedin.com/in/hameedshk) · [Website & blog](https://shkcorp.com)
 
 ---
 
-## Why IAM × AI
-
-AI agents are only useful when they can act, and they're only safe to act when identity is done right.
-
-- **Agents need identity.** An agent acting for a user should never be able to do more than that user can. I design agent actions scoped to the user's own permissions.
-- **Identity needs AI.** IAM is full of repetitive questions and small requests. Agents can answer them *and* complete them, turning helpdesk tickets into self-service.
-- **Both need policy.** Fine-grained, policy-based access (RBAC, ABAC, PBAC) is the guardrail for people and agents alike.
-
----
+# Lately, I've been working on
 
 ## Identity & Access Management
 
